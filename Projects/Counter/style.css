@@ -1,0 +1,28 @@
+
+#counter{
+    font-size: 8rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center; 
+    color: gray;
+}
+
+#btncontainer{
+    text-align: center;
+}
+
+button{
+    
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    color: white;
+    background-color: hsl(0, 3%, 28%);
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+.buttons:hover{
+    background-color: hsl(0, 0%, 15%);
+}
+
+
+
